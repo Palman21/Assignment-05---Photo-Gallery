@@ -7,9 +7,9 @@
 <body style="background-color:black;">
 
 	<h1 style="background-color:white;" align="center"> List of Photos </h1></a>
-	<a href="Photo01.html"><center>Photo 1</a></center>
-	<a href="Photo02.html"><center>Photo 2</a></center>
-	<a href="Photo03.html"><center>Photo 3</a></center>
+	<a href="Photo01.php"><center>Photo 1</a></center>
+	<a href="Photo02.php"><center>Photo 2</a></center>
+	<a href="Photo03.php"><center>Photo 3</a></center>
 
 	
 
