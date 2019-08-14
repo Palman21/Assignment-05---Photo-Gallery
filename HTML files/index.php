@@ -13,4 +13,7 @@
 	
 
 </body>
+<footer>
+	<a href="Log In Page.php">Log Out</a>
+</footer>
 </html>
